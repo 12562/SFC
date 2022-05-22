@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+	
+	float sum = 0;
+	
+	
+	int x = 6; 
+	x = x + 5;
+	
+	char y = 'n'; 
+_
+
+}

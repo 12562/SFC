@@ -1,0 +1,50 @@
+/home/mohit/Downloads/e-yantra_mooc
+total 38M
+drwxr-xr-x  6 mohit mohit 4.0K Apr  4 14:43 Week_1
+-rwxrwxrwx  1 mohit mohit  19M Apr  5 22:53 ey-mooc-grader-sfc_1.0.0
+-rw-rw-r--  1 mohit mohit  53K Apr  5 22:53 Week_1.zip
+-rw-r--r--  1 mohit mohit 8.0K Apr  5 23:01 .database.db
+-rw-rw-r--  1 mohit mohit  162 Apr  6 21:59 file1
+-rwxrwxrwx  1 mohit mohit  19M Apr  7 22:05 ey-mooc-grader-sfc
+-rw-rw-r--  1 mohit mohit  187 Apr  7 22:51 file2
+-rw-rw-r--  1 mohit mohit  187 Apr  7 22:52 file3
+-rw-rw-r--  1 mohit mohit  187 Apr  7 23:01 file
+drwxrwxr-x  6 mohit mohit 4.0K Apr 12 12:46 Week_2
+-rw-rw-r--  1 mohit mohit 4.7K Apr 12 22:37 Week_2.zip
+-rw-rw-r--  1 mohit mohit  343 Apr 13 22:58 week2_assignment2
+drwxr-xr-x 33 mohit mohit  12K Apr 14 00:51 ..
+-rw-rw-r--  1 mohit mohit 6.3K Apr 15 00:26 utilities.zip
+drwxrwxr-x  2 mohit mohit 4.0K Apr 15 00:26 utilities
+-rw-rw-r--  1 mohit mohit    0 Apr 15 00:26 out.txt
+-rw-rw-r--  1 mohit mohit   36 Apr 15 00:26 a4_test_case1_input.txt
+drwxrwxr-x  5 mohit mohit 4.0K Apr 15 00:26 .
+total 32K
+-rw-rw-r-- 1 mohit mohit   54 Apr 15 00:26 ideal_a4_test_case2_output.txt
+-rw-rw-r-- 1 mohit mohit  198 Apr 15 00:26 ideal_a4_test_case1_output.txt
+-rw-rw-r-- 1 mohit mohit 4.1K Apr 15 00:26 eval_w2_a4.sh
+-rw-rw-r-- 1 mohit mohit 4.0K Apr 15 00:26 a4_test_case2_input.txt
+-rw-rw-r-- 1 mohit mohit 3.9K Apr 15 00:26 a4_test_case1_input.txt
+drwxrwxr-x 2 mohit mohit 4.0K Apr 15 00:26 .
+drwxrwxr-x 5 mohit mohit 4.0K Apr 15 00:26 ..
+utilities/a4_test_case1_input.txt
+
+An Internet Protocol 172.16.254.1 address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.[1] An IP address serves two principal functions: host or network interface 345.45.48.45 identification and location addressing.
+
+Version 4 of the Internet Protocol (IPv4) defines 256.2.3.5 an IP address as a 32-bit number.[1] However, because of the 78.54.259.6 growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for the IP address, was developed in 1995,[2] and standardized as RFC 2460 in 1998.[3] IPv6 deployment has been ongoing since the mid-2000s.
+
+IP addresses are usually 192.45.78.248 written and displayed in human-readable notations, such as  in IPv4, and 2001:db8:0:1234:0:567:8:1 in IPv6.
+
+The IP address 489.56.49. space is managed globally by the 234.456.3.5 Internet Assigned Numbers Authority (IANA), and by five regional Internet registries (RIR) responsible in their designated territories for assignment 82.45.12.3 to end users and local Internet registries, such as Internet service providers. IPv4 addresses 1.0.1.289 have been distributed by IANA to the RIRs in blocks of approximately 16.8 million addresses each. Each ISP or private network administrator assigns 456.25.15.23 an IP address to each device connected to its network. Such assignments 240.2.1.3 may be on a static (fixed or permanent) or dynamic basis, depending on 45.2.1.45.48 its software and practices.
+
+An IP address serves two principal functions. It identifies the host, or more specifically its network interface, and it provides the location of the host in the network, and thus the 249.56.2.3 capability of addressing 45.89.12.45.36 that host. Its role has been characterized as follows: "A name indicates what we seek. An address indicates where it is. A route indicates how to get there."[4]
+
+The header of each IP packet contains the IP address of the 456.258.2.3 sending host, and that of the destination 0.0.0.0 host. A host may use geolocation software to deduce the geolocation 255.255.255.255 of its communicating peer.[5][6]
+
+Two versions of the Internet Protocol 12.59.126.23 are in common use in the Internet today. The original 123.45.78.1 version of the Internet Protocol for use in the Internet is Internet Protocol version 4 (IPv4), first installed in 1983.
+
+The rapid exhaustion of IPv4 address space available 195.26.56.45 for assignment to Internet service 56.236.256.4895 providers and end user organizations by the early 1990s, prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The result was a redesign 123.456.789.2 of the Internet Protocol which became eventually known as Internet Protocol Version 6 (IPv6) in 1995.[2][3] IPv6 technology was in various testing stages until the mid-2000s, when commercial production deployment commenced.
+
+IANA's primary IPv4 address pool was exhausted on 3 February 2011, when 250.0.0.0 the last five blocks were allocated to the five RIRs.[7][8] APNIC was the first RIR to exhaust its regional pool on 15 April 2011, except for a small amount of address space reserved for the transition to IPv6, intended to be allocated in a restricted process.[9] Individual ISPs still had unassigned pools of IP addresses, and could recycle addresses no longer needed by their subscribers.
+
+Today, these two versions of the Internet Protocol are in simultaneous 156.25.78.89 use. Among other technical changes, each version defines the format of addresses differently. Because of the historical prevalence of IPv4, the generic term IP address typically still refers to the addresses defined by IPv4. The gap in version sequence 0.0.0.0.0 between IPv4 and IPv6 resulted from the assignment of version 5 to the experimental Internet Stream Protocol in 1979, which however was never referred to as IPv5.
+

@@ -1,0 +1,52 @@
+/home/mohit/Downloads/e-yantra_mooc
+total 38M
+drwxr-xr-x  6 mohit mohit 4.0K Apr  4 14:43 Week_1
+-rwxrwxrwx  1 mohit mohit  19M Apr  5 22:53 ey-mooc-grader-sfc_1.0.0
+-rw-rw-r--  1 mohit mohit  53K Apr  5 22:53 Week_1.zip
+-rw-r--r--  1 mohit mohit 8.0K Apr  5 23:01 .database.db
+-rw-rw-r--  1 mohit mohit  162 Apr  6 21:59 file1
+-rwxrwxrwx  1 mohit mohit  19M Apr  7 22:05 ey-mooc-grader-sfc
+-rw-rw-r--  1 mohit mohit  187 Apr  7 22:51 file2
+-rw-rw-r--  1 mohit mohit  187 Apr  7 22:52 file3
+-rw-rw-r--  1 mohit mohit  187 Apr  7 23:01 file
+drwxrwxr-x  6 mohit mohit 4.0K Apr 12 12:46 Week_2
+-rw-rw-r--  1 mohit mohit 4.7K Apr 12 22:37 Week_2.zip
+-rw-rw-r--  1 mohit mohit  343 Apr 13 22:58 week2_assignment2
+drwxr-xr-x 33 mohit mohit  12K Apr 14 00:51 ..
+-rw-rw-r--  1 mohit mohit 6.3K Apr 15 00:26 utilities.zip
+drwxrwxr-x  2 mohit mohit 4.0K Apr 15 00:26 utilities
+-rw-rw-r--  1 mohit mohit 5.4K Apr 15 00:26 a4_test_case1_input.txt
+-rw-rw-r--  1 mohit mohit    0 Apr 15 00:26 out.txt
+-rw-rw-r--  1 mohit mohit   36 Apr 15 00:26 a4_test_case2_input.txt
+drwxrwxr-x  5 mohit mohit 4.0K Apr 15 00:26 .
+total 32K
+-rw-rw-r-- 1 mohit mohit   54 Apr 15 00:26 ideal_a4_test_case2_output.txt
+-rw-rw-r-- 1 mohit mohit  198 Apr 15 00:26 ideal_a4_test_case1_output.txt
+-rw-rw-r-- 1 mohit mohit 4.1K Apr 15 00:26 eval_w2_a4.sh
+-rw-rw-r-- 1 mohit mohit 4.0K Apr 15 00:26 a4_test_case2_input.txt
+-rw-rw-r-- 1 mohit mohit 3.9K Apr 15 00:26 a4_test_case1_input.txt
+drwxrwxr-x 2 mohit mohit 4.0K Apr 15 00:26 .
+drwxrwxr-x 5 mohit mohit 4.0K Apr 15 00:26 ..
+utilities/a4_test_case2_input.txt
+
+An IP address in IPv4 is 32-bits in size, which limits the address space to 4294967296 (232) IP addresses. Of this number, IPv4 reserves some addresses for special purposes such as private networks (~18 million addresses) or multicast addresses (~270 million addresses).
+
+IPv4 addresses are usually represented in dot-decimal notation, consisting of four decimal numbers, each ranging from 0 to 255, separated by dots, e.g., 172.16.254.1 Each part represents a group of 8 bits (octet) of the address. In some cases of technical writing, IPv4 addresses may be presented in various hexadecimal, octal, or binary representations.
+
+
+In the early stages of development of the Internet Protocol,[1] network administrators interpreted an IP address in two parts: network number portion and host number portion. The highest order octet (most significant eight bits) in an address was designated as the network number and the remaining bits were called the rest field or host identifier and were used for host numbering within a network.
+
+This early method soon proved inadequate as additional networks developed that were independent of the existing networks already designated by a network number. In 1981, the Internet addressing specification was revised with the introduction of classful network architecture.[4]
+
+Classful network design allowed for a larger number 78.89.45.258 of individual network assignments and fine-grained subnetwork design. The first three bits of the most significant octet of an IP address were defined as the class of the address. Three classes (A, B, and C) were defined for universal unicast addressing. Depending on the 236.45.89.456 class derived, the network identification was based on octet boundary segments of the entire address. Each class used successively additional octets in the network identifier, thus reducing the possible number of hosts in the higher order classes (B and C). The following table gives an overview of this now obsolete system.
+
+
+IP addresses are assigned to a host either 456.23.56.48 dynamically at the time of booting, or permanently by fixed configuration of the host hardware or software. Persistent configuration is also known as using a static IP address. In contrast, when a computer's IP address is assigned newly each time it restarts, this is known as using a dynamic IP address.
+
+The configuration 0.1236.45.890 of a static IP address depends in detail on the 0.2.3.1 software or hardware installed in the computer. Computers used for the network infrastructure, such as routers and mail servers, are typically configured with static addressing, Static addresses are also sometimes convenient for locating servers inside an enterprise.[citation needed]
+
+Dynamic IP addresses 89.56.123.256 are assigned using 2.2.3.3.0.2.56 methods such as 236.2.56.45 Zeroconf for self-configuration, or by the Dynamic Host Configuration Protocol (DHCP) from a network server. The address assigned with DHCP usually has an expiration period, after which the address may be assigned to another device, or to the originally associated host if it is still powered up. A network administrator may implement a DHCP method so that the same host always receives a specific address.
+
+DHCP is the most frequently used technology for assigning 1236.23.5.1 addresses. It avoids the 230.56.19.68 administrative burden of assigning specific static addresses to each device on a network. It also allows devices to share the limited address space on a network if only some of them are online at a particular time. Typically, dynamic IP configuration is enabled by default in modern desk top operating systems. DHCP is not the only technology used to assign IP addresses dynamically. Dialup and some broadband networks use dynamic address features of the Point-to-Point Protocol.
+
+In the absence or failure of static or stateful (DHCP) address configurations, an operating system may assign an IP address to a network interface using state-less auto-configuration methods, such as Zeroconf.

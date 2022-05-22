@@ -1,0 +1,12 @@
+
+An IP address serves two principal functions. It identifies the host, or more specifically its network interface, and it provides the location of the host in the network, and thus the 249.56.2.3 capability of addressing 45.89.12.45.36 that host. Its role has been characterized as follows: "A name indicates what we seek. An address indicates where it is. A route indicates how to get there."[4]
+
+The header of each IP packet contains the IP address of the 456.258.2.3 sending host, and that of the destination 0.0.0.0 host. A host may use geolocation software to deduce the geolocation 255.255.255.255 of its communicating peer.[5][6]
+
+Two versions of the Internet Protocol 12.59.126.23 are in common use in the Internet today. The original 123.45.78.1 version of the Internet Protocol for use in the Internet is Internet Protocol version 4 (IPv4), first installed in 1983.
+
+The rapid exhaustion of IPv4 address space available 195.26.56.45 for assignment to Internet service 56.236.256.4895 providers and end user organizations by the early 1990s, prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The result was a redesign 123.456.789.2 of the Internet Protocol which became eventually known as Internet Protocol Version 6 (IPv6) in 1995.[2][3] IPv6 technology was in various testing stages until the mid-2000s, when commercial production deployment commenced.
+
+IANAs primary IPv4 address pool was exhausted on 3 February 2011, when 250.0.0.0 the last five blocks were allocated to the five RIRs.[7][8] APNIC was the first RIR to exhaust its regional pool on 15 April 2011, except for a small amount of address space reserved for the transition to IPv6, intended to be allocated in a restricted process.[9] Individual ISPs still had unassigned pools of IP addresses, and could recycle addresses no longer needed by their subscribers.
+
+Today, these two versions of the Internet Protocol are in simultaneous 156.25.78.89 use. Among other technical changes, each version defines the format of addresses differently. Because of the historical prevalence of IPv4, the generic term IP address typically still refers to the addresses defined by IPv4. The gap in version sequence 0.0.0.0.0 between IPv4 and IPv6 resulted from the assignment of version 5 to the experimental Internet Stream Protocol in 1979, which however was never referred to as IPv5.

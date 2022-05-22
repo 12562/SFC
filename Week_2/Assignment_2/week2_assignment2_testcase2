@@ -1,0 +1,21 @@
+/* week2 assignment2 */
+	// test case2
+
+#include <stdio.h>	// Standard IO library
+#include <string.h> // String library
+
+// Main function
+int main()
+{
+
+	float sum = 0;
+		// testing the sed commands.
+	//to replace the comments
+	
+	int x = 6; // single-line comment
+	/* logic starts from here */
+
+	x = x + 5;
+	// end of c /* file */
+	char y = 'n';
+}

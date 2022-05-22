@@ -1,0 +1,14 @@
+/* test case1 */
+// week2 assignment2
+
+#include <stdio.h>
+#include <conio.h>
+
+int main()
+{// testing the sed commands. //to replace the comments
+
+	printf("Welcome to e-Yantra MOOC\n");
+	int x = 6; // single-line comment
+
+	x = x + 5;
+}
