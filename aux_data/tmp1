@@ -1,0 +1,34 @@
+i386                         inputattach                  iptables-apply
+i686-linux-gnu-pkg-config    insmod                       iptables-legacy
+ibus                         install                      iptables-legacy-restore
+ibus-daemon                  install-info                 iptables-legacy-save
+ibus-setup                   installkernel                iptables-nft
+ibus-table-createdb          install-printerdriver        iptables-nft-restore
+iceauth                      install-sgmlcatalog          iptables-nft-save
+ico                          instmodsh                    iptables-restore
+icontopbm                    intel-virtual-output         iptables-restore-translate
+iconv                        invoke-rc.d                  iptables-save
+iconvconfig                  ionice                       iptables-translate
+id                           ip                           iptables-xml
+identify                     ip6tables                    irqbalance
+iecset                       ip6tables-apply              irqbalance-ui
+if                           ip6tables-legacy             ischroot
+ifnames                      ip6tables-legacy-restore     isdv4-serial-debugger
+iio-sensor-proxy             ip6tables-legacy-save        isdv4-serial-inputattach
+ijs_pxljr                    ip6tables-nft                isodump
+ilbmtoppm                    ip6tables-nft-restore        isoinfo
+imageio_download_bin         ip6tables-nft-save           isosize
+imageio_remove_bin           ip6tables-restore            isovfy
+imagetops                    ip6tables-restore-translate  ispell-autobuildhash
+im-config                    ip6tables-save               ispell-wrapper
+img2pdf                      ip6tables-translate          iucode-tool
+img2pdf-gui                  ipcmk                        iucode_tool
+imgtoppm                     ipcrm                        iw
+im-launch                    ipcs                         iwconfig
+import                       ipod-read-sysinfo-extended   iwevent
+in                           ipod-time-sync               iwgetid
+info                         ippeveprinter                iwlist
+infobrowser                  ippfind                      iwpriv
+infocmp                      ipptool                      iwspy
+infotocap                    ippusbxd                     
+init                         iptables 
