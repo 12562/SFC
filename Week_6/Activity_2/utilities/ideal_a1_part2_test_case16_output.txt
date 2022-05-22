@@ -1,0 +1,11 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 2
+2,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< Invalid Date provided of First Vaccination Dose: 16/10/2100
+1,<<< Date of First Vaccination Dose provided: 15/4/2021
+1,<<< Number of weeks from today
+1,<<< You are eligible for 2nd Vaccination Dose and are in the right time-frame to take it.
+2,>>> Select the Age Group
+1,<<< Selected Age Group: 18+
+1,>>> Select the State
+1,<<< See ya! Visit again :)

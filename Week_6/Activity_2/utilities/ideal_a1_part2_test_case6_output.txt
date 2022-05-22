@@ -1,0 +1,5 @@
+2,>>> Select the Dose of Vaccination
+2,<<< Dose selected: 1
+4,>>> Select the Age Group
+2,<<< Invalid input provided
+1,<<< See ya! Visit again :)

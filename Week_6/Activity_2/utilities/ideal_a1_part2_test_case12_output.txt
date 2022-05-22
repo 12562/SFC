@@ -1,0 +1,4 @@
+2,>>> Select the Dose of Vaccination
+2,<<< Dose selected: 2
+2,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< See ya! Visit again :)

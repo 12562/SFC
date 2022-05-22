@@ -1,0 +1,4 @@
+2,>>> Select the Dose of Vaccination
+2,<<< Dose selected: 1
+2,>>> Select the Age Group
+1,<<< See ya! Visit again :)

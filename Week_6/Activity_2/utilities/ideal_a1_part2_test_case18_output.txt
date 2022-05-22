@@ -1,0 +1,20 @@
+2,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 2
+1,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< Date of First Vaccination Dose provided: 15/4/2021
+1,<<< Number of weeks from today
+1,<<< You are eligible for 2nd Vaccination Dose and are in the right time-frame to take it.
+2,>>> Select the Age Group
+1,<<< Dose selected: 1
+1,<<< Selected Age Group: 45+
+1,>>> Select the State
+1,<<< Selected State: Meghalaya
+1,>>> Select the District
+1,<<< Selected District: East Khasi Hills
+1,>>> Select the Vaccination Center Name
+1,<<< Selected Vaccination Center: GoodAce care
+1,>>> Select one of the available slots to schedule the Appointment
+1,<<< Selected Vaccination Appointment Date: May 19
+1,<<< Available Slots on the selected Date: 129
+1,<<< Your appointment is scheduled.
+1,<<< See ya! Visit again :)

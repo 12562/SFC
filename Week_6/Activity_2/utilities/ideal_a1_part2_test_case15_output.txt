@@ -1,0 +1,11 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 2
+2,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< Invalid Date provided of First Vaccination Dose: 31/12/2100
+1,<<< Date of First Vaccination Dose provided: 23/12/2020
+1,<<< Number of weeks from today
+1,<<< You have been late in scheduling your 2nd Vaccination Dose by
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 45+
+1,>>> Select the State
+1,<<< See ya! Visit again :)

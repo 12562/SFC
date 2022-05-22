@@ -1,0 +1,13 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 1
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 18+
+1,>>> Select the State
+1,<<< Selected State: Jammu and Kashmir
+2,>>> Select the District
+2,<<< Selected District: Srinagar
+3,>>> Select the Vaccination Center Name
+1,<<< Invalid input provided
+1,<<< Selected Vaccination Center: Highland Clinic
+1,>>> Select one of the available slots to schedule the Appointment
+1,<<< See ya! Visit again :)

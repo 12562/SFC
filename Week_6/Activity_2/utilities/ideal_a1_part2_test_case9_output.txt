@@ -1,0 +1,12 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 1
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 45+
+2,>>> Select the State
+1,<<< Selected State: Jharkhand
+3,>>> Select the District
+1,<<< Invalid input provided
+1,<<< Selected State: West Bengal
+1,<<< Selected District: Howrah
+1,>>> Select the Vaccination Center Name
+1,<<< See ya! Visit again :)

@@ -1,0 +1,9 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 1
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 18+
+4,>>> Select the State
+2,<<< Invalid input provided
+1,<<< Selected State: Jammu and Kashmir
+1,>>> Select the District
+1,<<< See ya! Visit again :)

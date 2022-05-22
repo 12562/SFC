@@ -1,0 +1,20 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 1
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 45+
+1,>>> Select the State
+1,<<< Selected State: Punjab
+1,>>> Select the District
+1,<<< Selected District: Ludhiana
+2,>>> Select the Vaccination Center Name
+2,<<< Selected Vaccination Center: Grand Meadow Hospital
+5,>>> Select one of the available slots to schedule the Appointment
+1,<<< Invalid input provided
+1,<<< Selected Vaccination Appointment Date: May 15
+2,<<< Available Slots on the selected Date: 0
+2,<<< Selected Appointment Date has no available slots
+1,<<< Selected Vaccination Appointment Date: May 20
+1,<<< Selected Vaccination Appointment Date: May 19
+1,<<< Available Slots on the selected Date: 91
+1,<<< Your appointment is scheduled.
+1,<<< See ya! Visit again :)

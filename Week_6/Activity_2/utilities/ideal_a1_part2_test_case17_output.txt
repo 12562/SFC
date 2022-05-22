@@ -1,0 +1,22 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 2
+1,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< Date of First Vaccination Dose provided: 15/4/2021
+1,<<< Number of weeks from today
+1,<<< You are eligible for 2nd Vaccination Dose and are in the right time-frame to take it.
+1,>>> Select the Age Group
+1,<<< Selected Age Group: 45+
+1,>>> Select the State
+1,<<< Selected State: Meghalaya
+1,>>> Select the District
+1,<<< Selected District: West Jaintia Hills
+1,>>> Select the Vaccination Center Name
+1,<<< Selected Vaccination Center: Well and Good Clinic
+2,>>> Select one of the available slots to schedule the Appointment
+1,<<< Selected Vaccination Appointment Date: May 15
+1,<<< Available Slots on the selected Date: 0
+1,<<< Selected Appointment Date has no available slots
+1,<<< Selected Vaccination Appointment Date: May 16
+1,<<< Available Slots on the selected Date: 34
+1,<<< Your appointment is scheduled.
+1,<<< See ya! Visit again :)

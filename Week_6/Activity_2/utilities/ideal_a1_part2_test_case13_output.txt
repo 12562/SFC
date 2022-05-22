@@ -1,0 +1,5 @@
+1,>>> Select the Dose of Vaccination
+1,<<< Dose selected: 2
+2,>>> Provide the date of First Vaccination Dose (DD/MM/YYYY)
+1,<<< Invalid Date provided of First Vaccination Dose: 12/5/2100
+1,<<< See ya! Visit again :)
