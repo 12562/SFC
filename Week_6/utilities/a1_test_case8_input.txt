@@ -1,0 +1,6 @@
+h
+pwd --
+date -
+cat utilities/week3_assignment2.awk ..
+head .
+tail ..

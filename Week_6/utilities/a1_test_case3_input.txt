@@ -1,0 +1,6 @@
+-c
+pwd -N
+date -d
+cat utilities/assignment2_sample.c
+head utilities/week3_assignment1.awk
+tail utilities/assignment2_sample.c

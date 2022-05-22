@@ -1,0 +1,3 @@
+usage: w6_activity1.py [-h] {pwd,date,cat,head,tail} ...
+w6_activity1.py: error: invalid choice: 'h' (choose from 'pwd', 'date', 'cat', 'head', 'tail')
+

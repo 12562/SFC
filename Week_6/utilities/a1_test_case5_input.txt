@@ -1,0 +1,6 @@
+--h
+pwd --h
+date --he
+cat week3_assignment2.c assignment2_sample.awk
+head utilities/week3_assignment1.awk -n 9 -v
+tail utilities/assignment2_sample.c -n 7 -v

@@ -1,0 +1,9 @@
+==> utilities/assignment2_sample.c <==
+	
+	int x = 6; // single-line comment
+	x = x + 5;
+	
+	char y = 'n'; /* end of c 
+	file */
+}
+

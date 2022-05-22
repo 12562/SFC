@@ -1,0 +1,11 @@
+#!/bin/awk -f
+
+BEGIN{
+	FS=",";
+	know_less_than_eq_two_before = 0;
+	know_great_than_eq_five_after = 0;
+}
+
+{
+	if(NR > 0)
+

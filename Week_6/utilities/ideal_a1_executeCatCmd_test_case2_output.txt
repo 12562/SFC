@@ -1,0 +1,3 @@
+usage: w6_activity1.py cat [-h] file [file ...]
+w6_activity1.py cat: error: the following arguments are required: file
+

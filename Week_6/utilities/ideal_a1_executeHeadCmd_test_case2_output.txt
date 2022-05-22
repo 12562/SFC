@@ -1,0 +1,3 @@
+usage: w6_activity1.py head [-h] [-n NUM] [-v] file
+w6_activity1.py head: error: the following arguments are required: file
+

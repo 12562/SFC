@@ -1,0 +1,6 @@
+help
+pw
+dat
+cat .
+head utilities/week3_assignment1.awk --lines 9 --verbose
+tail utilities/assignment2_sample.c --lines 7 --verbose

@@ -1,0 +1,17 @@
+usage: w6_activity1.py [-h] {pwd,date,cat,head,tail} ...
+
+Execute Shell commands in Python
+
+optional arguments:
+  -h, --help            show this help message and exit
+
+shell commands:
+  {pwd,date,cat,head,tail}
+    pwd                 print name of current/working directory
+    date                display the current date
+    cat                 concatenate files and print on the standard output
+    head                print first 10 LINES of a file to standard output
+    tail                print last 10 LINES of a file to standard output
+
+Week-6 Activity-1
+

@@ -1,0 +1,6 @@
+--help
+pwd -h
+date -h
+cat -h
+head -h
+tail -h

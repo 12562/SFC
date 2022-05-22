@@ -1,0 +1,10 @@
+usage: w6_activity1.py tail [-h] [-n NUM] [-v] file
+
+positional arguments:
+  file                 path of file to output contents on standard output
+
+optional arguments:
+  -h, --help           show this help message and exit
+  -n NUM, --lines NUM  print the last NUM lines instead of the last 10
+  -v, --verbose        always output headers giving file names
+

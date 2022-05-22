@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+	// this is a dummy function
+	float sum = 0;
+	// testing the sed commands
+
