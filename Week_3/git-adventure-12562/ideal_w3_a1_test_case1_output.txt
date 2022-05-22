@@ -1,0 +1,5 @@
+Average value of knowledge gained (on a scale of 1 to 10) before and after the task is as follows: 
+Before: 2.673
+After: 5.925
+
+Percentage increase in knowledge gained from level 2 or less before to level 5 or more after: 33.058
