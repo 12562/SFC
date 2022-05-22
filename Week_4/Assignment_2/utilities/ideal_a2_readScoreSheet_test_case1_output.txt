@@ -1,0 +1,1 @@
+{'Harv': 20.0, 'Virge': 52.0, 'Teresita': 93.0, 'Maire': 9.0, 'Jenica': 57.0, 'Kermie': 32.0, 'Chelsie': 11.0, 'Emilio': 95.0, 'Wynne': 14.0, 'Kelley': 66.0}
