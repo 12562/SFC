@@ -1,0 +1,7 @@
+e-Yantra Robotics Competition (eYRC) is a unique annual competition launched in the month of August every year for undergraduate students in science and engineering colleges, polytechnic.
+
+Selected teams are given a robotic kit complete with accessories and video tutorials to help them learn basic concepts in embedded systems and microcontroller programming.
+
+Abstracts of real world problems assigned as "themes" are then implemented by the teams using the robotic kits.
+
+The winners of this competition will be eligible for summer internship at IITB through e-Yantra Summer Internship Program.
